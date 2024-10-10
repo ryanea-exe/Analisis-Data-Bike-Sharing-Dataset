@@ -29,3 +29,6 @@ Project ini bertujuan untuk menganalisis data Bike Sharing Dataset. Tujuan akhir
     cd bike-sharing/dashboard/
     streamlit run dashboard.py
     ```
+
+2. Buka website Streamlit ini:
+   [Project Data Analysis in Streamlit](https://bike-sharing-analysis-ryanea.streamlit.app/)
